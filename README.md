@@ -8,6 +8,7 @@
 <br/>
 
 
+
 <details>
 <summary>Click to view</summary>
 
@@ -16,18 +17,23 @@
 
 </details>
 
-### Set Up Instructions
+
 
 <details>
-<summary>Click to view</summary>
+<summary>Implementation Files</summary>
+<br/>
 
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
+Use these files to complete the implementation:
+
+- `src/components/ShowHide/index.js`
+- `src/components/ShowHide/index.css`
 </details>
 
 
 
+### Resources
 
+<details>
 <summary>Colors</summary>
 
 <br/>
@@ -41,10 +47,8 @@
 </details>
 
 <details>
-  
 <summary>Font-families</summary>
 
 - Roboto
 
 </details>
-
